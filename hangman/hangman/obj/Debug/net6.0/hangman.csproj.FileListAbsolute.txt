@@ -1,0 +1,15 @@
+C:\Users\lcv2042513\Downloads\hangman\hangman\bin\Debug\net6.0\hangman.exe
+C:\Users\lcv2042513\Downloads\hangman\hangman\bin\Debug\net6.0\hangman.deps.json
+C:\Users\lcv2042513\Downloads\hangman\hangman\bin\Debug\net6.0\hangman.runtimeconfig.json
+C:\Users\lcv2042513\Downloads\hangman\hangman\bin\Debug\net6.0\hangman.dll
+C:\Users\lcv2042513\Downloads\hangman\hangman\bin\Debug\net6.0\hangman.pdb
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.csproj.AssemblyReference.cache
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.AssemblyInfoInputs.cache
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.AssemblyInfo.cs
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.csproj.CoreCompileInputs.cache
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.dll
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\refint\hangman.dll
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.pdb
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\hangman.genruntimeconfig.cache
+C:\Users\lcv2042513\Downloads\hangman\hangman\obj\Debug\net6.0\ref\hangman.dll
