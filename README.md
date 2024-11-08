@@ -1,7 +1,3 @@
-Here’s a `README.md` that you can use for your Hangman game project:
-
----
-
 # Hangman Game
 
 This is a simple console-based Hangman game written in C# where players try to guess a word by inputting one letter at a time. The game will track incorrect guesses, and the player will have a limited number of attempts based on the length and difficulty of the word.
