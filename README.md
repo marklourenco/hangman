@@ -38,7 +38,7 @@ This is a simple console-based Hangman game written in C# where players try to g
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/hangman.git
+   git clone https://github.com/marklourenco/hangman.git
    ```
 
 2. Navigate to the project directory:
