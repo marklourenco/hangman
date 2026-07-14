@@ -121,10 +121,3 @@ You won! The word was: a e r t
 ## License
 
 This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-### Notes:
-
-- **Repository URL**: Be sure to replace `yourusername` in the GitHub link with your actual GitHub username.
-- **Customizations**: You can modify the `words` dictionary to add more words or adjust the rules as you see fit.
